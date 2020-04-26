@@ -1,4 +1,7 @@
 # Speed-Tracking
+
+
+
 An Excel spreadsheet template designed to assist coaches in tracking and analyzing several athlete's performance simutaniously.
 Provide without the use of VBA with the standard .xlsx file extension
 
@@ -8,6 +11,7 @@ Provide without the use of VBA with the standard .xlsx file extension
       * [Add an Age Category to an Athlete Page](#adding-an-age-category-to-an-athlete)
     * [Renaming Athlete Pages](#renaming-athlete-pages)
     * [Organizing the Index Sheet](#organizing-the-order-of-names-on-the-index-sheet)
+    * [Expanding Table Lengths](#expanding-table-lengths)
 * [Usage with Other Spreadsheet Software](#usage-with-other-spreadsheet-software)
 * [License](#license)
 * [Contact](#contact)
@@ -56,8 +60,19 @@ To change the order, simply rearrange the tabs by dragging and dropping them to 
 
 **Note: Do not use Excel's built in sort functionality, it will break the page**
 
+### Expanding Table Lengths
+In the event that the length of the chart is not enough, it can be expanded with a few steps
+   1) Unprotect the tab: Go to "Review" in the top bar, then click "Unprotect Sheet". The password is "Unlock"
+   2) Select all cells of a tab by clicking the diagonal triangle in the top left of the window (where the letters and numbers meet)
+   3) Right Click on any row number and select Unhide, this should reveal more rows at the bottom of the page
+   4) Click the number of the last row with information to select the row
+   5) Right-Click on the row number and select copy
+   6) Click on the number of the next row down
+   7) Right Click and select paste
+   
+**Note: Keyboard shortcuts, such as Ctrl+A, Ctrl+C and Ctrl+V (and their Mac equivalent) do work in replacement of clicking through menus (especially for copying and pasting)**
 
-### Usage with Other Spreadsheet Software
+## Usage with Other Spreadsheet Software
 This spreadsheet was designed for use with functionality provided by Excel, which may not be provided in a compatible manner elsewhere. As such, I cannot guarantee it will work with other software, including GoogleⓇ Sheets.
 
 
