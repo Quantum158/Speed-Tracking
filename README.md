@@ -19,7 +19,7 @@ The first time you open the Excel sheet, you will see 2 tabs:
 * "Index" will contain a list of key information from all the athletes personal pages
 * "(BLANK)" is a template sheet
 
-### Adding a New Athlete
+## Adding a New Athlete
 First, Duplicate the "(BLANK)" sheet.
 
 * Right click on the tab, Click "Move or Copy", Select a position for the sheet to appear, click "Make a copy" at the bottom of the popup, then press "OK".
