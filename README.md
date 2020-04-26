@@ -1,4 +1,4 @@
-# Speed-Tracking
+# Speed Tracking
 
 ![Version][version]
 
