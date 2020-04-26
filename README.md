@@ -12,12 +12,14 @@ Provide without the use of VBA with the standard .xlsx file extension
 * [License](#license)
 * [Contact](#contact)
 
+
 # Getting Started
 First, download the repository. This will contain, this README file, the License, and the Excel file.
 The first time you open the Excel sheet, you will see 2 tabs:
     Index, and (BLANK).
 * "Index" will contain a list of key information from all the athletes personal pages
 * "(BLANK)" is a template sheet
+
 
 ## Adding a New Athlete
 First, Duplicate the "(BLANK)" sheet.
@@ -26,10 +28,12 @@ First, Duplicate the "(BLANK)" sheet.
 
 Then, make sure that a tab you just created is positioned in-between Index and (BLANK).
 
+
 ### Renaming Athlete Pages
 To rename an athletes page, right click on the tab you wish to edit and click "Rename". When finished, you will see the new name update in side of the spreadsheet.
 
 **Note: You are not able to edit the name of an athlete any other way, attempting to edit the cell will not work**
+
 
 ### Adding Data to an Athletes Page
 Athlete pages can support a few different pieces of data:
@@ -40,9 +44,11 @@ Athlete pages can support a few different pieces of data:
 Simply type your data into the respective column. Analysis columns will automatically populate when this data is provided
 Coaching and training priority columns can be found to the right of the time grid.
 
+
 #### Adding an Age Category to an Athlete
 To the right of the athletes name on their spreadsheet is the cell labelled "Category". 
 Click on this cell, then select the small triangle to the right to open the category drop-down menu.
+
 
 ### Organizing the Order of Names on the "Index" Sheet
 The index sheet grabs the order from the physical order of the tabs located between the "Index" and "(BLANK)" sheets.
@@ -50,8 +56,10 @@ To change the order, simply rearrange the tabs by dragging and dropping them to 
 
 **Note: Do not use Excel's built in sort functionality, it will break the page**
 
+
 ### Usage with Other Spreadsheet Software
 This spreadsheet was designed for use with functionality provided by Excel, which may not be provided in a compatible manner elsewhere. As such, I cannot guarantee it will work with other software, including GoogleⓇ Sheets.
+
 
 # License
 This project is licensed under the GNU General Public License 3.0
@@ -72,7 +80,8 @@ This project is licensed under the GNU General Public License 3.0
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
 Full license text is available [HERE][license]
-    
+   
+   
 # Contact
 Questions, Issues, and Feedback can be addressed to [Benjamin MacDonald](mailto:benjamin@networkalliance.ca?subject=[GitHub]%20Speed%20Tracker%20)
 
