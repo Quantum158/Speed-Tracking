@@ -21,4 +21,4 @@ First, download the repository
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
 # Contact
-    Questions, Issues, and Feedback can be addressed to [Benjamin MacDonald](mailto:benjamin@networkalliance.ca?subject=[GitHub]%20Speed%20Tracker%20)
+Questions, Issues, and Feedback can be addressed to [Benjamin MacDonald](mailto:benjamin@networkalliance.ca?subject=[GitHub]%20Speed%20Tracker%20)
