@@ -1,6 +1,6 @@
 # Speed-Tracking
 
-
+![Version][version]
 
 An Excel spreadsheet template designed to assist coaches in tracking and analyzing several athlete's performance simutaniously.
 Provide without the use of VBA with the standard .xlsx file extension
@@ -101,3 +101,4 @@ Full license text is available [HERE][license]
 Questions, Issues, and Feedback can be addressed to [Benjamin MacDonald](mailto:benjamin@networkalliance.ca?subject=[GitHub]%20Speed%20Tracker%20)
 
 [license]: https://github.com/Quantum158/Speed-Tracking/blob/master/LICENSE
+[version]: https://img.shields.io/github/v/release/Quantum158/Speed-Tracking
