@@ -19,19 +19,19 @@ The first time you open the Excel sheet, you will see 2 tabs:
 * "Index" will contain a list of key information from all the athletes personal pages
 * "(BLANK)" is a template sheet
 
-## Adding a New Athlete
+### Adding a New Athlete
 First, Duplicate the "(BLANK)" sheet.
 
 * Right click on the tab, Click "Move or Copy", Select a position for the sheet to appear, click "Make a copy" at the bottom of the popup, then press "OK".
 
 Then, make sure that a tab you just created is positioned in-between Index and (BLANK).
 
-## Renaming Athlete Pages
+### Renaming Athlete Pages
 To rename an athletes page, right click on the tab you wish to edit and click "Rename". When finished, you will see the new name update in side of the spreadsheet.
 
 **Note: You are not able to edit the name of an athlete any other way, attempting to edit the cell will not work**
 
-## Adding Data to an Athletes Page
+### Adding Data to an Athletes Page
 Athlete pages can support a few different pieces of data:
     * Date
     * Day Notes
@@ -40,20 +40,20 @@ Athlete pages can support a few different pieces of data:
 Simply type your data into the respective column. Analysis columns will automatically populate when this data is provided
 Coaching and training priority columns can be found to the right of the time grid.
 
-### Adding an Age Category to an Athlete
+#### Adding an Age Category to an Athlete
 To the right of the athletes name on their spreadsheet is the cell labelled "Category". 
 Click on this cell, then select the small triangle to the right to open the category drop-down menu.
 
-## Organizing the Order of Names on the "Index" Sheet
+### Organizing the Order of Names on the "Index" Sheet
 The index sheet grabs the order from the physical order of the tabs located between the "Index" and "(BLANK)" sheets.
 To change the order, simply rearrange the tabs by dragging and dropping them to a new position in the tab list (ensuring they are still positioned between "Index" and "(BLANK)", otherwise they will not be detected).
 
 **Note: Do not use Excel's built in sort functionality, it will break the page**
 
-## Usage with Other Spreadsheet Software
+### Usage with Other Spreadsheet Software
 This spreadsheet was designed for use with functionality provided by Excel, which may not be provided in a compatible manner elsewhere. As such, I cannot guarantee it will work with other software, including GoogleⓇ Sheets.
 
-## License
+# License
 This project is licensed under the GNU General Public License 3.0
 
     Copyright ©  2020  Benjamin MacDonald
