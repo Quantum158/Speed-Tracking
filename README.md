@@ -3,7 +3,7 @@
 ![Version][version]
 
 An Excel spreadsheet template designed to assist coaches in tracking and analyzing several athlete's performance simutaniously.
-Provide without the use of VBA with the standard .xlsx file extension
+Provided without the use of VBA with the standard .xlsx file extension
 
 * [Getting Started](#getting-started)
     * [Adding a New Athlete](#adding-a-new-athlete)
