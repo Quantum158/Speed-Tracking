@@ -1,6 +1,7 @@
 # Speed Tracking
 
-![Version][version] ![License][licensebadge]
+[![Download](version)](https://github.com/Quantum158/Speed-Tracking/releases)
+[![License](licensebadge)](./LICENSE)
 
 An Excel spreadsheet template designed to assist coaches in tracking and analyzing several athlete's performance simutaniously.
 Provided without the use of VBA with the standard .xlsx file extension
