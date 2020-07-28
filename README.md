@@ -18,7 +18,7 @@ Provided without the use of VBA with the standard .xlsx file extension
 
 
 # Getting Started
-First, download the repository. This will contain, this README file, the License, and the Excel file.
+First, download the repository. It will contain: This README file, the License, and the Excel file.
 The first time you open the Excel sheet, you will see 2 tabs:
     Index, and (BLANK).
 * "Index" will contain a list of key information from all the athletes personal pages
