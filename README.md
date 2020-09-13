@@ -14,6 +14,7 @@ Provided without the use of VBA with the standard .xlsx file extension
     * [Organizing the Index Sheet](#organizing-the-order-of-names-on-the-index-sheet)
     * [Expanding Table Lengths](#expanding-table-lengths)
 * [Usage with Other Spreadsheet Software](#usage-with-other-spreadsheet-software)
+* [Known Bugs](#known-bugs)
 * [License](#license)
 * [Contact](#contact)
 
@@ -23,21 +24,22 @@ First, [download the repository](https://github.com/Quantum158/Speed-Tracking/ar
 The first time you open the Excel sheet, you will see 2 tabs:
     Index, and (BLANK).
 * "Index" will contain a list of key information from all the athletes personal pages
-* "(BLANK)" is a template sheet
+* "(BLANK)" is a template sheet used to add new athletes
 
 
 ## Adding a New Athlete
+(Accurate for Windows 10)
 First, Duplicate the "(BLANK)" sheet.
 
 * Right click on the tab, Click "Move or Copy", Select a position for the sheet to appear, click "Make a copy" at the bottom of the popup, then press "OK".
 
-Then, make sure that a tab you just created is positioned in-between Index and (BLANK).
+Then, move the tab you created so it is positioned in-between Index and (BLANK) (if it is not already).
 
 
 ### Renaming Athlete Pages
 To rename an athletes page, right click on the tab you wish to edit and click "Rename". When finished, you will see the new name update in side of the spreadsheet.
 
-**Note: You are not able to edit the name of an athlete any other way, attempting to edit the cell will not work**
+**Note: You are not able to edit the name of an athlete any other way, attempting to edit the cell containing the name will not work**
 
 
 ### Adding Data to an Athletes Page
@@ -59,14 +61,16 @@ Click on this cell, then select the small triangle to the right to open the cate
 The index sheet grabs the order from the physical order of the tabs located between the "Index" and "(BLANK)" sheets.
 To change the order, simply rearrange the tabs by dragging and dropping them to a new position in the tab list (ensuring they are still positioned between "Index" and "(BLANK)", otherwise they will not be detected).
 
-**Note: Do not use Excel's built in sort functionality, it will break the page**
+**Note: Do not use Excel's built-in sort functionality, it will break the page**
 
 ### Expanding Table Lengths
+(These steps will work for both Athlete pages as well as the Index Page)
 In the event that the length of the chart is not enough, it can be expanded with a few steps
-   1) Unprotect the tab: Go to "Review" in the top bar, then click "Unprotect Sheet". The password is "Unlock"
-   2) Select all cells of a tab by clicking the diagonal triangle in the top left of the window (where the letters and numbers meet)
+
+   1) **Unprotect the Tab**: Go to "Review" in the top bar, then click "Unprotect Sheet". The password is "Unlock"
+   2) **Unhide Additional Rows**: Select all cells of the tab by clicking the diagonal triangle in the top left of the window (where the letters and numbers meet)
    3) Right Click on any row number and select Unhide, this should reveal more rows at the bottom of the page
-   4) Click the number of the last row with information to select the row
+   4) **Copy and paste all cells in the bottom row of data to the next row down**: Click the number of the last row with information to select the row
    5) Right-Click on the row number and select copy
    6) Click on the number of the next row down
    7) Right Click and select paste
@@ -76,6 +80,8 @@ In the event that the length of the chart is not enough, it can be expanded with
 ## Usage with Other Spreadsheet Software
 This spreadsheet was designed for use with functionality provided by Excel, which may not be provided in a compatible manner elsewhere. As such, I cannot guarantee it will work with other software, including GoogleⓇ Sheets.
 
+# Known Bugs
+* Adding multiple new template pages before renaming the sheet can cause errors
 
 # License
 This project is licensed under the GNU General Public License 3.0
