@@ -3,7 +3,7 @@
 [![Download](https://img.shields.io/github/v/release/Quantum158/Speed-Tracking)](https://github.com/Quantum158/Speed-Tracking/releases)
 [![License](https://img.shields.io/github/license/Quantum158/Speed-Tracking)](./LICENSE)
 
-An Excel spreadsheet template designed to assist coaches in tracking and analyzing several athlete's performance simutaniously.
+An ExcelⓇ spreadsheet template designed to assist coaches in tracking and analyzing several athlete's performance simutaniously.
 Provided without the use of VBA with the standard .xlsx file extension
 
 * [Getting Started](#getting-started)
@@ -20,8 +20,8 @@ Provided without the use of VBA with the standard .xlsx file extension
 
 
 # Getting Started
-First, [download the repository](https://github.com/Quantum158/Speed-Tracking/archive/v1.0.1.zip "Direct Download"). It will contain: This README file, the License, and the Excel file.
-The first time you open the Excel sheet, you will see 2 tabs:
+First, [download the repository](https://github.com/Quantum158/Speed-Tracking/archive/v1.0.1.zip "Direct Download"). It will contain: This README file, the License, and the spreadsheet file.
+The first time you open the spreadsheet, you will see 2 tabs:
     Index, and (BLANK).
 * "Index" will contain a list of key information from all the athletes personal pages
 * "(BLANK)" is a template sheet used to add new athletes
@@ -78,7 +78,7 @@ In the event that the length of the chart is not enough, it can be expanded with
 **Note: Keyboard shortcuts, such as Ctrl+A, Ctrl+C and Ctrl+V (and their Mac equivalent) do work in replacement of clicking through menus (especially for copying and pasting)**
 
 ## Usage with Other Spreadsheet Software
-This spreadsheet was designed for use with functionality provided by Excel, which may not be provided in a compatible manner elsewhere. As such, I cannot guarantee it will work with other software, including GoogleⓇ Sheets.
+This spreadsheet was designed for use with functionality provided by ExcelⓇ, which may not be provided in a compatible manner elsewhere. As such, I cannot guarantee it will work with other software, including GoogleⓇ Sheets.
 
 # Known Bugs
 * Adding multiple new template pages before renaming the sheet can cause errors
